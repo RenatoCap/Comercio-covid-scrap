@@ -3,7 +3,7 @@
 
 En este proyecto se realizó un Script en python que extrare de la página del diario [El Comercio](https://elcomercio.pe/ "comercio") , el titulo y el resumen de las noticias ubicadas en la sección [COVID](https://elcomercio.pe/noticias/coronavirus// "COVID") .
 
-##Archivos
+<h2>Archivos</h2>
 <p>En este repositorio se encuentra el archivo requirements.txt que contiene las librerías de python utilizadas en este proyecto, para instalarlo debe de ejecutar el siguiente código desde su terminar, dependiendo de que sistema operativo este utilizando, para Windows el comando es el siguiente:</p>
 
 <center><code>py install -r requirements.txt</code> </center>
