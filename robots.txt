@@ -1,0 +1,144 @@
+User-agent: *
+User-agent: Googlebot
+User-agent: Googlebot-News
+User-agent: Googlebot-Image
+User-agent: Googlebot-Video
+User-agent: Googlebot-Mobile
+
+Sitemap: https://elcomercio.pe/sitemap/?outputType=xml
+Sitemap: https://elcomercio.pe/sitemap/politica/?outputType=xml
+Sitemap: https://elcomercio.pe/sitemap/peru/?outputType=xml
+Sitemap: https://elcomercio.pe/sitemap/lima/?outputType=xml
+Sitemap: https://elcomercio.pe/sitemap/tecnologia/?outputType=xml
+Sitemap: https://elcomercio.pe/sitemap/mundo/?outputType=xml
+Sitemap: https://elcomercio.pe/sitemap/economia/?outputType=xml
+Sitemap: https://elcomercio.pe/sitemap/luces/?outputType=xml
+Sitemap: https://elcomercio.pe/sitemap/tvmas/?outputType=xml
+Sitemap: https://elcomercio.pe/sitemap/deporte-total/?outputType=xml
+Sitemap: https://elcomercio.pe/sitemap/gastronomia/?outputType=xml
+Sitemap: https://elcomercio.pe/sitemap/opinion/?outputType=xml
+Sitemap: https://elcomercio.pe/sitemap/colecciones-el-comercio/?outputType=xml
+Sitemap: https://elcomercio.pe/sitemap/wuf/?outputType=xml
+Sitemap: https://elcomercio.pe/sitemap/videos/?outputType=xml
+Sitemap: https://elcomercio.pe/sitemap/viu/?outputType=xml
+Sitemap: https://elcomercio.pe/sitemap/vamos/?outputType=xml
+Sitemap: https://elcomercio.pe/sitemap/ruedas-tuercas/?outputType=xml
+Sitemap: https://elcomercio.pe/sitemap/casa-y-mas/?outputType=xml
+Sitemap: https://elcomercio.pe/sitemap/eldominical/?outputType=xml
+Sitemap: https://elcomercio.pe/sitemap/publirreportaje/?outputType=xml
+Sitemap: https://elcomercio.pe/sitemap/archivo-elcomercio/?outputType=xml
+Sitemap: https://elcomercio.pe/sitemap/respuestas/?outputType=xml
+Sitemap: https://elcomercio.pe/sitemap/somos/?outputType=xml
+Sitemap: https://elcomercio.pe/sitemap/lifweek/?outputType=xml
+Sitemap: https://elcomercio.pe/arcio/google-news-feed/
+Sitemap: https://elcomercio.pe/arcio/google-news-feed/category/deporte-total/
+Sitemap: https://elcomercio.pe/arcio/google-news-feed/category/economia/
+Sitemap: https://elcomercio.pe/arcio/google-news-feed/category/gastronomia/
+Sitemap: https://elcomercio.pe/arcio/google-news-feed/category/insolito/
+Sitemap: https://elcomercio.pe/arcio/google-news-feed/category/lima/
+Sitemap: https://elcomercio.pe/arcio/google-news-feed/category/luces/
+Sitemap: https://elcomercio.pe/arcio/google-news-feed/category/mundo/
+Sitemap: https://elcomercio.pe/arcio/google-news-feed/category/opinion/
+Sitemap: https://elcomercio.pe/arcio/google-news-feed/category/peru/
+Sitemap: https://elcomercio.pe/arcio/google-news-feed/category/politica/
+Sitemap: https://elcomercio.pe/arcio/google-news-feed/category/redes-sociales/
+Sitemap: https://elcomercio.pe/arcio/google-news-feed/category/somos/
+Sitemap: https://elcomercio.pe/arcio/google-news-feed/category/tecnologia/
+Sitemap: https://elcomercio.pe/arcio/google-news-feed/category/tecnologia/e-sports/
+Sitemap: https://elcomercio.pe/arcio/google-news-feed/category/tvmas/
+Sitemap: https://elcomercio.pe/arcio/google-news-feed/category/vamos/
+Sitemap: https://elcomercio.pe/arcio/google-news-feed/category/viu/
+
+User-agent: PetalBot
+Allow:
+
+Disallow: /buscar/
+Disallow: /catalogo/
+Disallow: /archivo/todas/19*
+Disallow: /archivo/todas/200*
+
+User-agent: UbiCrawler
+Disallow: /
+
+User-agent: DOC
+Disallow: /
+
+User-agent: Zao
+Disallow: /
+
+User-agent: sitecheck.internetseer.com
+Disallow: /
+
+User-agent: Zealbot
+Disallow: /
+
+User-agent: MSIECrawler
+Disallow: /
+
+User-agent: SiteSnagger
+Disallow: /
+
+User-agent: WebStripper
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: Fetch
+Disallow: /
+
+User-agent: Offline Explorer
+Disallow: /
+
+User-agent: Teleport
+Disallow: /
+
+User-agent: TeleportPro
+Disallow: /
+
+User-agent: WebZIP
+Disallow: /
+
+User-agent: linko
+Disallow: /
+
+User-agent: HTTrack
+Disallow: /
+
+User-agent: Microsoft.URL.Control
+Disallow: /
+
+User-agent: Xenu
+Disallow: /
+
+User-agent: larbin
+Disallow: /
+
+User-agent: libwww
+Disallow: /
+
+User-agent: ZyBORG
+Disallow: /
+
+User-agent: Download Ninja
+Disallow: /
+
+#
+# la mayoria de veces causa problemas
+#
+
+User-agent: wget
+Disallow: /
+
+User-agent: grub-client
+Disallow: /
+
+User-agent: k2spider
+Disallow: /
+
+User-agent: NPBot
+Disallow: /
+
+User-agent: WebReaper
+Disallow: /
+ 
