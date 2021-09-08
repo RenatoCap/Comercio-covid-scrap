@@ -1,4 +1,4 @@
-#Comercio Covid Scrapper
+<h1>Comercio Covid Scrapper</h1>
 
 
 En este proyecto se realizó un Script en python que extrare de la página del diario [El Comercio](https://elcomercio.pe/ "comercio") , el titulo y el resumen de las noticias ubicadas en la sección [COVID](https://elcomercio.pe/noticias/coronavirus// "COVID") .
