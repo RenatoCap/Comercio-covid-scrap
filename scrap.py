@@ -27,7 +27,7 @@ def parse_notice(link, today):
 
 
             try:    
-                with open(f'{today}/{title}.txt', 'w', encoding='utf-8') as f:
+                with open(f'{today}/{title.replace(" ","_")}.txt', 'w', encoding='utf-8') as f:
                     f.write(title)
                     f.write('\n\n')
                     f.write(summary)
