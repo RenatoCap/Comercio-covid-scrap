@@ -1,0 +1,4 @@
+url = https://elcomercio.pe/noticias/coronavirus/
+Links = '//div[@class="story-item__information-box w-full"]/h2/a[@itemprop="url"]/@href'
+Titulo = '//h1[@itemprop="name" and @class="sht__title"]/text()'
+Resumen = '//h2[@itemprop="name" and @class="sht__summary"]/text()'
