@@ -6,7 +6,7 @@ En este proyecto se realizó un Script en python que extrare de la página del d
 ##Archivos
 <p>En este repositorio se encuentra el archivo requirements.txt que contiene las librerías de python utilizadas en este proyecto, para instalarlo debe de ejecutar el siguiente código desde su terminar, dependiendo de que sistema operativo este utilizando, para Windows el comando es el siguiente:</p>
 
-<center><code>`py install -r requirements.txt`</code> </center>
+<center><code>py install -r requirements.txt</code> </center>
 
 
 <p>Si esta utilizando como sistema operativo linux,  reemplazar el py por python3.</p>
